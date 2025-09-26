@@ -1,5 +1,5 @@
 {
-  "redirects": [
+  "rewrites": [
     {
       "source": "/Osteocare-Bone-Health-Survey/:path*",
       "destination": "https://bmd-survey.vercel.app/:path*"
