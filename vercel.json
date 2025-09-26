@@ -1,8 +1,8 @@
 {
- "rewrites": [
-  {
-   "source": "/Osteocare-Bone-Health-Survey/:match*",
-   "destination": "https://bmd-survey.vercel.app/:match*"
-  }
- ]
+  "redirects": [
+    {
+      "source": "/Osteocare-Bone-Health-Survey/:path*",
+      "destination": "https://bmd-survey.vercel.app/:path*"
+    }
+  ]
 }
