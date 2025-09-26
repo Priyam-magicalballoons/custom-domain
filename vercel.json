@@ -1,0 +1,12 @@
+{
+  "rewrites": [
+    {
+      "source": "/vitiligo-awareness-month/(.*)",
+      "destination": "https://video-generator-jet.vercel.app/vitiligo-awareness-month-ended"
+    },
+    {
+      "source": "/Osteocare-Bone-Health-Survey/(.*)",
+      "destination": "https://www.magicalballoonsdigital.com/"
+    }
+  ]
+}
